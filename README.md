@@ -1,53 +1,63 @@
-<!--一下子提供一种思路，欢迎大家发挥 -->
 
 # 概览
-云主机（UHost）为您提供安全可靠的弹性计算服务。 只需几分钟，您就可以在云端获取和启用 云主机，用于实现您的计算需求。随着业务需求的变化，您可以实时扩展或缩减计算资源。云主机 支持按实际使用的资源计费，可以为您节约计算成本。使用 云主机 可以极大降低您的软硬件采购成本，简化 IT 运维工作。
 
 
-#### <center>[了解](#1了解)   |   [购买及付费](#2购买及付费)   |   [使用指南](#3使用指南)   |   [常见问题](#4常见问题)</center>   
+* 产品简介
+    * [产品概述](/udc/concepts/overeview)
+    * [支持范围](/udc/concepts/support)
+    * [产品特性](/udc/concepts/feature)
+    * [部署方式](/udc/concepts/deployment)
+    * [数据盘说明](/udc/concepts/shujupan)
+    
+* [快速上手](/udc/start)
 
-## 1.了解
-
-面向云计算行业入门级用户，全方位、多角度、深入浅出的给你介绍产品，从基本信息、功能优势、应用场景等方面帮您快速了解，从容选择。
-
-* [什么是云主机](相对链接)
-* [功能与优势](相对链接)
-* [应用场景](相对链接)
-* [词汇表](_glossary.md)
-
-
-
-## 2.购买及付费
-
-面向云计算行业入门级用户，全方位、多角度、深入浅出的给你介绍产品，从基本信息、功能优势、应用场景等方面帮您快速了解，从容选择。
-
-* [计费模式](相对链接)
-* [定价表](相对链接)
-* [配置变更](相对链接)
-* [续费](相对链接)
-* [退款](相对链接)
-
-
-
-## 3.使用指南
-
-面向云计算行业入门级用户，全方位、多角度、深入浅出的给你介绍产品，从基本信息、功能优势、应用场景等方面帮您快速了解，从容选择。
-
-* 注意事项与使用限制
-  * [注意事项描述](相对链接)
-* 创建第一台云主机
-  * [创建资源](相对链接)
 * 操作指南
-  * [创建](相对链接)
-  * [管理](相对链接)
+  
+    * 登录
+    
+        [1、登录系统](/udc/operation/login/login)
+    
+    * 数据资产发现
+      
+        * [1、数据库扫描任务](/udc/operation/discovery/dbtask)
+        * [2、数据库确认](/udc/operation/discovery/dbconfirm)
+        
+    * 数据资产管理  
+        * [1、数据库资产](/udc/operation/manage/assets)
+        * [2、数据库概览](/udc/operation/manage/overview)
+        * [3、数据库详情](/udc/operation/manage/details)
+        
+    * 分类分级
+        * [1、扫描任务管理](/udc/operation/dc/taskmanage)
+        * [2、分类分级校正](/udc/operation/dc/correction)
+        * [3、分类分级清单](/udc/operation/dc/list)
+        
+    * 数据资产概览
+        * [1、敏感信息统计](/udc/operation/datassets/sensitive)
+        * [2、分类分级信息](/udc/operation/datassets/audsource)
+        * [3、数据库资产信息统计](/udc/operation/datassets/dbassets)
+        * [4、数据资产概览-导出](/udc/operation/datassets/export)
+        
+    * 配置管理
+        * [1、标准配置](/udc/operation/config/standard)
+        * [2、敏感类型配置](/udc/operation/config/sensitivetype)
+        * [3、拓扑配置](/udc/operation/config/topology)
+        
+    * 系统管理
+        * [1、用户信息](/udc/operation/system/usermanage)
+        * [2、系统管理](/udc/operation/system/sysmanage)
+        * [3、修改密码](/udc/operation/system/changepwd)
+        * [4、用户管理](/udc/operation/system/user)
+        * [5、软件授权](/udc/operation/system/license)
+        * [6、使用手册](/udc/operation/system/manual)
+    
+* [产品价格](/udc/price)
 
-
-
-## 4.常见问题
-
-面向云计算行业入门级用户，全方位、多角度、深入浅出的给你介绍产品，从基本信息、功能优势、应用场景等方面帮您快速了解，从容选择。
-
-- 场景1:场景描述场景描述场景描述场景描述场景描述场景描述场景描述场景描述
-  - [问题描述](相对链接)
-- 场景2:场景描述场景描述场景描述场景描述场景描述场景描述场景描述场景描述
-  - [问题描述](相对链接)
+* [FAQ](/udc/faq)
+  
+    * [证书主要对哪些地方进行了限制 ](/udc/faq1)
+    * [执行任务时要注意些什么](/udc/faq2)
+    * [为什么执行分类分级任务后，无法看到扫描结果](/udc/faq3)
+    * [为什么添加 SqlServer 时，无法扫描到表和字段](/udc/faq4)
+    * [为什么添加 Caché数据库时，选择了模式数据库下也有内容，但仍无法加载出表、字段](/udc/faq5)
+    * [为什么有些数据库可以在数据资产管理中添加为数据库资产，但无法在数据资产发现中发现这个数据库](/udc/faq6)
