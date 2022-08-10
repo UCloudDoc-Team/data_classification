@@ -8,7 +8,7 @@
    * [数据盘说明](/data_classification/concepts/shujupan)
 * [快速上手](/data_classification/start)
 
-* 操作指南
+* [操作指南](/data_classification/operation)
 
    * 登录
 
