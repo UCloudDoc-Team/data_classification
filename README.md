@@ -6,7 +6,7 @@
     * [产品特性](/data_classification/concepts/feature)
     * [部署方式](/data_classification/concepts/deployment)
     * [数据盘说明](/data_classification/concepts/shujupan)
-* 购买指导
+* 操作指南
     * 登录
       * [登录系统](/data_classification/operation/login/login.md)
     * 数据资产发现
