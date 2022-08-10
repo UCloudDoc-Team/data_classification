@@ -36,8 +36,6 @@
       * [用户管理](/data_classification/operation/system/user.md)
       * [软件授权](/data_classification/operation/system/license)
       * [使用手册](/data_classification/operation/system/manual)
-* 快速上手
-    * [常见注意事项](/uhost/newuser/tips)
-    * [创建第一台主机](/uhost/newuser/briefguide)
+* [快速上手](/data_classification/start.md)
 * [产品价格](/data_classification/price.md) 
 * [常见问题](/data_classification/faq.md)
