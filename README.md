@@ -15,7 +15,7 @@
   
     * 登录
     
-        [1、登录系统](/data_classification/operation/login/login)
+        * [1、登录系统](/data_classification/operation/login/login)
     
     * 数据资产发现
       
@@ -53,11 +53,4 @@
     
 * [产品价格](/data_classification/price)
 
-* [FAQ](/data_classification/faq)
-  
-    * [证书主要对哪些地方进行了限制 ](/data_classification/faq1)
-    * [执行任务时要注意些什么](/data_classification/faq2)
-    * [为什么执行分类分级任务后，无法看到扫描结果](/data_classification/faq3)
-    * [为什么添加 SqlServer 时，无法扫描到表和字段](/data_classification/faq4)
-    * [为什么添加 Caché数据库时，选择了模式数据库下也有内容，但仍无法加载出表、字段](/data_classification/faq5)
-    * [为什么有些数据库可以在数据资产管理中添加为数据库资产，但无法在数据资产发现中发现这个数据库](/data_classification/faq6)
+* [常见问题](/data_classification/faq)
