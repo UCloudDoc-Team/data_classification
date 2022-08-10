@@ -8,39 +8,36 @@
    * [数据盘说明](/data_classification/concepts/shujupan)
 * [快速上手](/data_classification/start)
 
-* [操作指南](/data_classification/operation)
-
-   * 登录
-
+* 操作指南
+   * [登录](/data_classification/operation/login)
      * [1、登录系统](/data_classification/operation/login/login)
 
-   * 数据资产发现
-
+   * [数据资产发现](/data_classification/operation/discovery)
      * [1、数据库扫描任务](/data_classification/operation/discovery/dbtask)
      * [2、数据库确认](/data_classification/operation/discovery/dbconfirm)
 
-   * 数据资产管理  
+   * [数据资产管理](/data_classification/operation/manage)  
      * [1、数据库资产](/data_classification/operation/manage/assets)
      * [2、数据库概览](/data_classification/operation/manage/overview)
      * [3、数据库详情](/data_classification/operation/manage/details)
 
-   * 分类分级
+   * [分类分级](/data_classification/operation/dc)
      * [1、扫描任务管理](/data_classification/operation/dc/taskmanage)
      * [2、分类分级校正](/data_classification/operation/dc/correction)
      * [3、分类分级清单](/data_classification/operation/dc/list)
 
-   * 数据资产概览
+   * [数据资产概览](/data_classification/operation/datassets)
      * [1、敏感信息统计](/data_classification/operation/datassets/sensitive)
      * [2、分类分级信息](/data_classification/operation/datassets/audsource)
      * [3、数据库资产信息统计](/data_classification/operation/datassets/dbassets)
      * [4、数据资产概览-导出](/data_classification/operation/datassets/export)
 
-   * 配置管理
+   * [配置管理](/data_classification/operation/config)
      * [1、标准配置](/data_classification/operation/config/standard)
      * [2、敏感类型配置](/data_classification/operation/config/sensitivetype)
      * [3、拓扑配置](/data_classification/operation/config/topology)
 
-   * 系统管理
+   * [系统管理](/data_classification/operation/system)
      * [1、用户信息](/data_classification/operation/system/usermanage)
      * [2、系统管理](/data_classification/operation/system/sysmanage)
      * [3、修改密码](/data_classification/operation/system/changepwd)
