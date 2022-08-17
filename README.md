@@ -5,7 +5,6 @@
     * [支持范围](/data_classification/concepts/support)
     * [产品特性](/data_classification/concepts/feature)
     * [部署方式](/data_classification/concepts/deployment)
-    * [数据盘说明](/data_classification/concepts/shujupan)
 * 操作指南
     * 登录
       * [登录系统](/data_classification/operation/login/login.md)
